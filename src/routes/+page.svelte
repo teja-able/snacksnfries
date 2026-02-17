@@ -4,5 +4,5 @@
 
 <div 
   class="w-screen h-screen bg-cover bg-center"
-  style="background-image: url('{bgImage}')">
+  style="background-image: url('{bgImage}')"><h1>Coming Soon</h1>
 </div>
